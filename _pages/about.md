@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am doing my PhD research at the Hong Kong Polytechnic University (PolyU) in the Department of Building and Real Estate (BRE), under the supervision of Prof. [Tarek Zayed] (https://www.polyu.edu.hk/bre/people/academic-staff/prof-tarek-zayed/). I conduct interdisciplinary research, integrating sensing and vision-based techniques for transport infrastructure condition assessments. My research aims to develop intelligent tools for automated health monitoring of walkway pavements to promote pedestrian safety and infrastructure resilience. I had my Master's in Construction and Real Estate at PolyU, BRE, in 2023 under the supervision of Prof. [Tarek Zayed](https://www.polyu.edu.hk/bre/people/academic-staff/prof-tarek-zayed/), where I graduated with Distinction and my dissertation, [A novel framework for automatic sidewalk defect monitoring with object detection and instance segmentation](https://theses.lib.polyu.edu.hk/handle/200/12615), won the Runner-UP Award of the HKIE Safety Specialist Committee Students Project Competition, 2024. I attained my BSc in Civil Engineering from the Kwame Nkrumah University of Science and Technology (KNUST), Kumasi, Ghana, with First Class Honors in 2020. My project, "Optimal blending of natural gravel for road construction using linear programming," was supervised by Prof. [Emmanuel A. Dorkor](https://civil.knust.edu.gh/people/emmanuel-amponsah-donkor). 
+I am doing my PhD research at the Hong Kong Polytechnic University (PolyU) in the Department of Building and Real Estate (BRE), under the supervision of Prof. [Tarek Zayed](https://www.polyu.edu.hk/bre/people/academic-staff/prof-tarek-zayed/). I conduct interdisciplinary research, integrating sensing and vision-based techniques for transport infrastructure condition assessments. My research aims to develop intelligent tools for automated health monitoring of walkway pavements to promote pedestrian safety and infrastructure resilience. I had my Master's in Construction and Real Estate at PolyU, BRE, in 2023 under the supervision of Prof. [Tarek Zayed](https://www.polyu.edu.hk/bre/people/academic-staff/prof-tarek-zayed/), where I graduated with Distinction and my dissertation, [A novel framework for automatic sidewalk defect monitoring with object detection and instance segmentation](https://theses.lib.polyu.edu.hk/handle/200/12615), won the Runner-UP Award of the HKIE Safety Specialist Committee Students Project Competition, 2024. I attained my BSc in Civil Engineering from the Kwame Nkrumah University of Science and Technology (KNUST), Kumasi, Ghana, with First Class Honours in 2020. My project, "Optimal blending of natural gravel for road construction using linear programming," was supervised by Prof. [Emmanuel A. Dorkor](https://civil.knust.edu.gh/people/emmanuel-amponsah-donkor). 
 Before starting my PhD, I worked at PolyU as a research assistant on projects, including the Smart Assessment of Bridge Deck Efficiency and Safety from 2023 to 2024. I learned how to use the Ground-Penetrating Radar (GPR) for concrete deck condition assessment. I also worked on the Smart Noise Logger-based Leak Diagnosis System from 2021 to 2023, where we developed ML models to predict and localize leaks in water distribution mains. After graduating with my bachelor's, I worked as a teaching assistant in the Department of Civil Engineering at KNUST, administering tutorials and lab sessions from 09/2020 to 09/2021. 
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
@@ -29,7 +29,7 @@ Before starting my PhD, I worked at PolyU as a research assistant on projects, i
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
@@ -44,15 +44,32 @@ Before starting my PhD, I worked at PolyU as a research assistant on projects, i
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIB-WBC 2025</div><img src="images/Best_Paper_WBC2025.jpg" alt="sym" style="width:70%; height:auto;"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- *2025.05*, **Best Paper Award**, [CIB World Building Congress 2025](https://wbc2025.cibworld.org/), [Automated Detection for Alignment of Modular Integrated Construction Modules Using YOLOv9](https://doi.org/10.7771/3067-4883.2115). *Authors:* Abdulai, S.F., Zayed, T., **Yussif, A.M.**, Taiwo, R., & Elrifaee, M.S.A.E. (Purdue, USA).
+
+-  This study develops an automated detection system using a modified YOLOv9 architecture to enhance the precision and efficiency of MiC module alignment. The research employed a three-stage methodology comprising literature analysis, data acquisition of 5,000 images, and the detection model development. The system achieved exceptional performance with a mean Average Precision (mAP50) score of 0.995 and real-time processing capabilities of 3.1 ms per frame at 640×640 resolution. These results demonstrate the system's potential for transforming MiC practices through improved installation precision and reduced human error, contributing significantly to the advancement of construction automation. 
+
+</div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">HKIE_SSC_Award_Ceremony</div><img src="images/HKIE_SSC_Award.jpg" alt="sym" style="width:70%; height:auto;"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- *2024.05*, **Runner UP Award**, Student Project Competition 2024, Hong Kong Institution of Engineers (HKIE) Safety Specialist Committee (SSC). Presented to **Abdul-Mugis Yussif** for *Master's Degree* in recognition of outstanding safety achievement and performance. 
+
+- This award was received during the [29th Anniversary Dinner of the Hong Kong Institution of Engineers (HKIE)](http://ssc.hkie.org.hk/en_it_events_inside_Upcoming.aspx?EventID=265&TypeName=Events%20/%20Activities) for its contribution towards pedestrian safety promotion. The award constituted a high-table dinner ticket, a cash prize, and a certificate of recognition. 
+
+</div></div>
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.09 - Now*, PhD, Construction and Real Estate, The Hong Kong Polytechnic University, Hong Kong. 
+- *2022.09 - 2023.08*, MSc, Construction and Real Estate (Distinction), The Hong Kong Polytechnic University, Hong Kong. 
+- *2016.09 - 2020.08*, BSc, Civil Engineering (First-Class Honours), Kwame Nkrumah University of Science and Technologoy, Kumasi, Ghana. 
 
 # 💬 Conferences and Invited Talks
-- *2025.05.22*, **Presenter: Online**, [CIB World Building Congress 2025](https://wbc2025.cibworld.org/) on [Sidewalk Pavement Defect Detection with Instance Segmentation: A Step Towards Improving Sidewalk Quality](https://doi.org/10.7771/3067-4883.1516). *Virtual Session 26.*
+- *2025.05.22*, **Presenter: Online**, [CIB World Building Congress 2025](https://wbc2025.cibworld.org/) on [Sidewalk Pavement Defect Detection with Instance Segmentation: A Step Towards Improving Sidewalk Quality](https://doi.org/10.7771/3067-4883.1516). Purdue, USA. *Virtual Session 26.*
 - *2024.02.29*, **Speaker: Online**, The 24th Scientific Seminar of the Group Mechanics and Construction, Van Lang University (Vietnam). Topic: A Novel Framework for Automatic Sidewalk Defect Monitoring with Object Detection and Instance Segmentation. 
 
 # 💡 Activities
