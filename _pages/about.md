@@ -54,7 +54,7 @@ Before starting my PhD, I worked at PolyU as a research assistant on projects, i
 
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">HKIE_SSC_Award_Ceremony</div><img src="images/HKIE_SSC_Award.jpg" alt="sym" style="width:70%; height:auto;"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">HKIE_SSC_Award_Ceremony</div><img src="images/HKIE_SSC_Award.jpg" alt="sym" style="width:80%; height:auto;"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - *2024.05*, **Runner UP Award**, Student Project Competition 2024, Hong Kong Institution of Engineers (HKIE) Safety Specialist Committee (SSC). Presented to **Abdul-Mugis Yussif** for *Master's Degree* in recognition of outstanding safety achievement and performance. 
@@ -62,6 +62,13 @@ Before starting my PhD, I worked at PolyU as a research assistant on projects, i
 - This award was received during the [29th Anniversary Dinner of the Hong Kong Institution of Engineers (HKIE)](http://ssc.hkie.org.hk/en_it_events_inside_Upcoming.aspx?EventID=265&TypeName=Events%20/%20Activities) for its contribution towards pedestrian safety promotion. The award constituted a high-table dinner ticket, a cash prize, and a certificate of recognition. 
 
 </div></div>
+
+<div markdown="1">
+- *2024/2025*, PolyU [**Presidential PhD Fellowship Award**](https://www.polyu.edu.hk/gs/prospective-students/fellowship-scholarship-schemes/pppfs/) for outstanding academic performance and research excellence, worth about HK$1.31 million. 
+- *2022/2023*, [**Faculty of Construction and Environment (FCE) Entry Scholarship**](https://www.polyu.edu.hk/fce/scholarships-and-awards/entry-scholarship-for-the-postgraduate-scheme-in-construction-and-environment/) for Postgraduate Scheme in Construction and Environment. A highly competetive scholarship awarded to only 2 MSc students for each programme yearly. Tuition waiver and HK$50,000 cash award.  
+- *2016/17 - 2018/19*, **College of Engineering Excellent Student Award**, KNUST. For students with very high CGPA. *(Three consecutive academic years)*
+- *2016/17 - 2018/19*, **Provost's List**, KNUST. For achieving very high CGPA. *(Three consecutive academic years)*
+</div>
 
 # 📖 Educations
 - *2024.09 - Now*, PhD, Construction and Real Estate, The Hong Kong Polytechnic University, Hong Kong. 
