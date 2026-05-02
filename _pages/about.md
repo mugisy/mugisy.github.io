@@ -54,7 +54,7 @@ Intelligence, *137*, 109062.
 - **Yussif, A.-M.**, Sadeghi, H., & Zayed, T. (2023). [Application of Machine Learning for Leak Localization in Water Supply Networks](https://doi.org/10.3390/buildings13040849). Buildings, *13*(4), 849. 
 
 
-# 🎖 Honors and Awards
+# 🎖 Honours and Awards
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIB-WBC 2025</div><img src="images/Best_Paper_WBC2025.jpg" alt="sym" style="width:70%; height:auto;"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -111,6 +111,13 @@ Intelligence, *137*, 109062.
 - *2020.09 - 2021.09*, **Teaching Assistant** for Structures, [Department of Civil Engineering](https://civil.knust.edu.gh/), KNUST, Kumasi, Ghana. Under the Structural Engineering group.<br>
 <u>Roles:</u>Tutoring undergraduate students, grading examination scripts, preparing lab manuals, and assisting in lab proceedings.
 
+# 💰 External Competitive Research Grants Proposals Writings (Under Prof. Zayed)
+- *2023*, "Integrated Efficiency Management System of Asphalt Pavement Using Non-Destructive Technologies and Life Cycle Analysis," Smart Traffic Fund (STF), Hong Kong. *(Unsuccessful)*.<br>
+<u>Roles:</u> Writing the introduction and research summary. 
+
+- *2023*, "Smart Leak Detection and Localization Model for Chilled Water Pipes in MTR Stations." *[Awarded HK$2.74 million.](https://www.itf.gov.hk/en/project-search/project-profile/index.html?ReferenceNo=PRP/063/24FX)*<br>
+<u>Roles:</u> Writing introduction, literature review, and methodology, creating figures.
+
 # 👥 Leadership & Voluntary Activities
 
 - *2024.10 - Now*, **Chief Promotion Officer**, [PolyU CIB Student Chapter](https://www.polyu.edu.hk/bre/study/cib--student-chapter/).<br>
@@ -119,8 +126,14 @@ Intelligence, *137*, 109062.
 - *2023*, **Student Representative** for Construction and Real Estate MSc group, PolyU.<br>
 <u>Roles:</u> Participate in meetings with programme leaders and department heads, suggest improvements for the MSc programme, and discuss teaching and learning experiences with external examiners.
 
-- *2018 - 2020*, **Member of KNUST Peer Counselling Centre**
+- *2018 - 2020*, **Member of KNUST Peer Counselling Centre**.<br>
 <u>Roles:</u> Visit hospitals, organise health awareness week workshops every semester, and visit student halls every fortnight.
+
+# 🪪 Professional Memberships 
+- *2023 - 2024, 2025 - Now*, **Student Member**, American Society of Civil Engineers (S.M.ASCE)
+- *2025 - Now*, **Member**, Transportation & Development Institute (ASCE)
+- *2023 - 2024*, **Member**, Construction Institute (ASCE)
+- *2023.07 - 2026.07*, **Certified Member**, Construction Industry Safety Association, Hong Kong.
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
