@@ -136,4 +136,8 @@ Intelligence, *137*, 109062.
 - *2023.07 - 2026.07*, **Certified Member**, Construction Industry Safety Association, Hong Kong.
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2019.06 - 2019.09*, **Structural Engineer Intern**, [Works and Physical Development](https://uds.edu.gh/about/directorates/WPD), University for Development Studies (UDS), Tamale, Ghana.
+
+<p style="text-align: center;">
+  Last update: {{ "now" | date: "%B %d, %Y" }}
+</p>
