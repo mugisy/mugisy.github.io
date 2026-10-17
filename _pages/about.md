@@ -55,15 +55,13 @@ Intelligence, *137*, 109062.
 
 
 # 🎖 Honours and Awards
-<<<<<<< HEAD
 
 <div markdown="1">
 
 - *2026.07*, PolyU [**PhD Scholars International Collaborative Research Fellowship (ICRF)**](https://www.polyu.edu.hk/gs/current-students/polyu-phd-scholars-icrf/) to conduct international collaborative research at top-notch global universities for six months (HK$65,000). 
 
 </div>
-=======
->>>>>>> 8807f2ee80bf3b49cb3f77b91540b6078129295f
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIB-WBC 2025</div><img src="images/Best_Paper_WBC2025.jpg" alt="sym" style="width:70%; height:auto;"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -85,13 +83,8 @@ Intelligence, *137*, 109062.
 
 <div markdown="1">
 
-<<<<<<< HEAD
 - *2026.07*, PolyU [**PhD Scholars International Collaborative Research Fellowship (ICRF)**](https://www.polyu.edu.hk/gs/current-students/polyu-phd-scholars-icrf/) to conduct international collaborative research at top-notch global universities for six months (HK$65,000). 
 - *2024/2025*, PolyU [**Presidential PhD Fellowship Award**](https://www.polyu.edu.hk/gs/prospective-students/fellowship-scholarship-schemes/pppfs/) for outstanding academic performance and research excellence, worth about HK$1.31 million.
-=======
-- *2024/2025*, PolyU [**Presidential PhD Fellowship Award**](https://www.polyu.edu.hk/gs/prospective-students/fellowship-scholarship-schemes/pppfs/) for outstanding academic performance and research excellence, worth about HK$1.31 million.
-
->>>>>>> 8807f2ee80bf3b49cb3f77b91540b6078129295f
 - *2022/2023*, [**Faculty of Construction and Environment (FCE) Entry Scholarship**](https://www.polyu.edu.hk/fce/scholarships-and-awards/entry-scholarship-for-the-postgraduate-scheme-in-construction-and-environment/) for Postgraduate Scheme in Construction and Environment. A highly competitive scholarship awarded to only 2 MSc students for each programme yearly. Tuition waiver and HK$50,000 cash award.  
 - *2016/17 - 2018/19*, **College of Engineering Excellent Student Award**, KNUST. For students with a very high CGPA. *(Three consecutive academic years)*
 - *2016/17 - 2018/19*, **Provost's List**, KNUST. For achieving a very high CGPA. *(Three consecutive academic years)*
@@ -161,6 +154,7 @@ Intelligence, *137*, 109062.
 
 # 💻 Internships
 - *2019.06 - 2019.09*, **Structural Engineer Intern**, [Works and Physical Development](https://uds.edu.gh/about/directorates/WPD), University for Development Studies (UDS), Tamale, Ghana.
+- *2018.06 - 2018.08*, **Material Engineer Intern**, Ghana Highway Authority, Tamale Regional Office, Materials Lab, Tamale, Ghana.
 
 <p style="text-align: center;">
   Last update: {{ "now" | date: "%B %d, %Y" }}
